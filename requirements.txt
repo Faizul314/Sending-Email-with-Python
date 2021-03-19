@@ -1,4 +1,4 @@
-Pillow==7.1.2
+Pillow==8.1.1
 pyjokes==0.6.0
 PyQt5==5.14.2
 PyQt5-sip==12.7.2
